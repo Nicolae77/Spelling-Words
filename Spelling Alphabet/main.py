@@ -12,3 +12,8 @@ def generate_phonetic():
         generate_phonetic()
     else:
     print(result)
+    
+    
+generate_phonetic()    
+    
+    
